@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "171425824523",
+    "firebase_url": "https://snackorderingapp-5af4c-default-rtdb.firebaseio.com",
+    "project_id": "snackorderingapp-5af4c",
+    "storage_bucket": "snackorderingapp-5af4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171425824523:android:525afb1b27fcca14e6ec0e",
+        "android_client_info": {
+          "package_name": "com.example.snackordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171425824523-qqu13bg0uerl416nenad5onu90hkobrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZzS0l9p96M1oxetLxeFXRisMEI7D-DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171425824523-qqu13bg0uerl416nenad5onu90hkobrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171425824523:android:50e7f982ec9b918ae6ec0e",
+        "android_client_info": {
+          "package_name": "snackorderingapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171425824523-qqu13bg0uerl416nenad5onu90hkobrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbZzS0l9p96M1oxetLxeFXRisMEI7D-DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171425824523-qqu13bg0uerl416nenad5onu90hkobrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
